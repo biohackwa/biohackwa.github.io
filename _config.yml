@@ -1,6 +1,5 @@
 name: BioHack Academy UWA
 markdown: kramdown
-pygments: true
 description: "BioHack Academy UWA."
 url: "biohackwa.github.io"
 permalink: /posts/:title
