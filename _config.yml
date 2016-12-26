@@ -1,5 +1,5 @@
 name: BioHack Academy UWA
-markdown: redcarpet
+markdown: kramdown
 pygments: true
 description: "BioHack Academy UWA."
 url: "biohackwa.github.io"
