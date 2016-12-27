@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Class 1 - Introduction
-permalink: /bha3/class/1/
+permalink: /course/class/1/
 ---
 
 ## Synopsys
