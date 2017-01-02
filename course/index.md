@@ -14,6 +14,7 @@ Before we start, please take care to review the necessary [Preparations]({{ site
 ## Classes
 
 1. [Week 1: Introduction]({{ site.baseurl }}/course/class/1/)
+2. [Week 2: Digital Fabrication]({{ site.baseurl }}/course/class/2/)
 
 ## Annex
 
