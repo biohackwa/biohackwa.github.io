@@ -21,22 +21,22 @@ brain-computer interface * 3D bio-printing * slime moulds/fungi
 
 ### Sterile Hood
 
-![Sterile Hood](/images/sterilehood.jpg =250x)
+<img src="/images/sterilehood.jpg" alt="Sterile Hood" style="width: 200px;"/>
 
 ### Magnetic Stirrer
 
-![Sterile Hood](/images/stirrer.jpg =250x)
+<img src="/images/stirrer.jpg" alt="Magnetic Stirrer" style="width: 200px;"/>
 
 ## Microbiology
 
 _Janthinobacterium lividum_
 
-![JL](/images/JL.jpg)
+<img src="/images/JL.jpg" alt="Janthinobacterium lividum" style="width: 200px;"/>
 
 _Arthrobacter agilis_
 
-![AAG](/images/AAG.jpg)
+<img src="/images/AAG.jpg" alt="Arthrobacter agilis" style="width: 200px;"/>
 
 Contamination test (hand bacteria), _and why you have to work sterile_
 
-![JL](/images/CT.jpg)
+<img src="/images/CT.jpg" alt="Contamination test" style="width: 200px;"/>
