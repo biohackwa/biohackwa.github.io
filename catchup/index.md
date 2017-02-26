@@ -42,3 +42,7 @@ All recordings can be accessed on: [https://vimeo.com/waagsociety](https://vimeo
 - [Waag Microbiology Techniques videos - recommended](https://vimeo.com/193707826)
 - [Introduction to Microbiology Culture Techniques - advanced](https://www.youtube.com/watch?v=Et1v8EQP10U)
 
+6. Arduino
+- [Interactive virtual Arduino tutorials - recommended](https://circuits.io/lessons/OWPN85OISCBHZAJ)
+- [Getting started with Arduino](http://www.makeuseof.com/tag/getting-started-with-arduino-a-beginners-guide/)
+- [Ladyada Arduino Tutorials](http://www.ladyada.net/learn/arduino/)

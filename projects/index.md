@@ -5,38 +5,50 @@ title: Projects
 
 _We are a group of DIY bio enthusiasts in Perth, Western Australia_
 
-Our interests are in:
+<blockquote>Our interests are in:</blockquote>
 
-brain-computer interface * 3D bio-printing * slime moulds/fungi
+<blockquote>`brain-computer interface` * `3D bio-printing` * `slime moulds/fungi`</blockquote>
+
+Join us of facebook: [https://www.facebook.com/groups/diybioperth](`diybio perth`)
 
 ***
 
 ## Our participants' documentation cites
 - [https://ziggy-oreilly.github.io/](https://ziggy-oreilly.github.io/)
+- [https://tarshbates.github.io/](https://tarshbates.github.io/)
+- [https://piratenun.wordpress.com/current-projects/](https://piratenun.wordpress.com/current-projects/)
 - _more to come soon_
 
 ***
 
 ## Devices we've built
 
-### Sterile Hood
+### SNeKubator
 
-<img src="/images/sterilehood.jpg" alt="Sterile Hood" style="width: 200px;"/>
+<img src="/images/snek1.jpg" alt="SNeK1" style="width: 300px;"/> <img src="/images/snek2.jpg" alt="SNeK2" style="width: 300px;"/>
 
-### Magnetic Stirrer
+Bacteria snack box
 
-<img src="/images/stirrer.jpg" alt="Magnetic Stirrer" style="width: 200px;"/>
+### BHA
+
+Sterile Hood | Magnetic Stirrer | Incubator
+--- | --- | ---
+<img src="/images/sterilehood.jpg" alt="Sterile Hood" style="width: 300px;"/> | <img src="/images/stirrer.jpg" alt="Magnetic Stirrer" style="width: 300px;"/> | <img src="/images/incubator.jpg" alt="Incubator" style="width: 300px;"/>
 
 ## Microbiology
 
 _Janthinobacterium lividum_
 
-<img src="/images/JL.jpg" alt="Janthinobacterium lividum" style="width: 200px;"/>
+<img src="/images/JL.jpg" alt="Janthinobacterium lividum" style="width: 300px;"/>
 
 _Arthrobacter agilis_
 
-<img src="/images/AAG.jpg" alt="Arthrobacter agilis" style="width: 200px;"/>
+<img src="/images/AAG.jpg" alt="Arthrobacter agilis" style="width: 300px;"/>
 
 Contamination test (hand bacteria), _and why you have to work sterile_
 
-<img src="/images/CT.jpg" alt="Contamination test" style="width: 200px;"/>
+<img src="/images/CT.jpg" alt="Contamination test" style="width: 300px;"/>
+
+Propagating pigmented bacteria
+
+<img src="/images/bacteria.jpg" alt="Bacteria" style="width: 300px;"/>
