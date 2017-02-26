@@ -31,13 +31,16 @@ Bacteria snack box
 
 ### BHA
 
-*Sterile Hood*
+**Sterile Hood**
+
 <img src="/images/sterilehood.jpg" alt="Sterile Hood" style="width: 300px;"/> 
 
-*Magnetic stirrer*
+**Magnetic stirrer**
+
 <img src="/images/stirrer.jpg" alt="Magnetic Stirrer" style="width: 300px;"/> 
 
-*Incubator*
+**Incubator**
+
 <img src="/images/incubator.jpg" alt="Incubator" style="width: 300px;"/>
 
 ## Microbiology
