@@ -9,7 +9,7 @@ Our interests are in:
 
 `brain-computer interface` * `3D bio-printing` * `slime moulds/fungi`
 
-Join us of facebook: [https://www.facebook.com/groups/diybioperth](`diybio perth`)
+Join us of facebook: [`diybio perth`](https://www.facebook.com/groups/diybioperth)
 
 ***
 
