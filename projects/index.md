@@ -5,9 +5,9 @@ title: Projects
 
 _We are a group of DIY bio enthusiasts in Perth, Western Australia_
 
-<blockquote>Our interests are in:</blockquote>
+Our interests are in:
 
-<blockquote>`brain-computer interface` * `3D bio-printing` * `slime moulds/fungi`</blockquote>
+`brain-computer interface` * `3D bio-printing` * `slime moulds/fungi`
 
 Join us of facebook: [https://www.facebook.com/groups/diybioperth](`diybio perth`)
 
@@ -31,9 +31,14 @@ Bacteria snack box
 
 ### BHA
 
-Sterile Hood | Magnetic Stirrer | Incubator
---- | --- | ---
-<img src="/images/sterilehood.jpg" alt="Sterile Hood" style="width: 300px;"/> | <img src="/images/stirrer.jpg" alt="Magnetic Stirrer" style="width: 300px;"/> | <img src="/images/incubator.jpg" alt="Incubator" style="width: 300px;"/>
+*Sterile Hood*
+<img src="/images/sterilehood.jpg" alt="Sterile Hood" style="width: 300px;"/> 
+
+*Magnetic stirrer*
+<img src="/images/stirrer.jpg" alt="Magnetic Stirrer" style="width: 300px;"/> 
+
+*Incubator*
+<img src="/images/incubator.jpg" alt="Incubator" style="width: 300px;"/>
 
 ## Microbiology
 
