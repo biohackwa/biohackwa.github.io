@@ -23,11 +23,17 @@ Join us of facebook: [`diybio perth`](https://www.facebook.com/groups/diybiopert
 
 ## Devices we've built
 
+### CD XY stage
+
+An XY stage from old CD drives... for automated webcam microscope, bioprinter, shaker?
+
+<img src="/images/xy_elec.jpg" alt="XY" style="height: 170px;"/> <img src="/images/xy_side.jpg" alt="XY" style="height: 170px;"/> <img src="/images/xy_top.jpg" alt="XY" style="height: 170px;"/> 
+
 ### SNeKubator
 
-<img src="/images/snek1.jpg" alt="SNeK1" style="width: 300px;"/> <img src="/images/snek2.jpg" alt="SNeK2" style="width: 300px;"/>
-
 Bacteria snack box
+
+<img src="/images/snek1.jpg" alt="SNeK1" style="width: 300px;"/> <img src="/images/snek2.jpg" alt="SNeK2" style="width: 300px;"/>
 
 ### BHA
 
@@ -42,6 +48,10 @@ Bacteria snack box
 **Incubator**
 
 <img src="/images/incubator.jpg" alt="Incubator" style="width: 300px;"/>
+
+**Webcam Microscope**
+
+<img src="/images/webcam.jpg" alt="Webcam" style="width: 300px;"/>
 
 ## Microbiology
 

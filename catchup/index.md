@@ -46,3 +46,16 @@ All recordings can be accessed on: [https://vimeo.com/waagsociety](https://vimeo
 - [Interactive virtual Arduino tutorials - recommended](https://circuits.io/lessons/OWPN85OISCBHZAJ)
 - [Getting started with Arduino](http://www.makeuseof.com/tag/getting-started-with-arduino-a-beginners-guide/)
 - [Ladyada Arduino Tutorials](http://www.ladyada.net/learn/arduino/)
+
+7. Optics
+- [Microscopy theory](http://micro.magnet.fsu.edu/primer/anatomy/anatomy.html)
+- [Microscope basics animation](http://virtual.itg.uiuc.edu/training/LM_tutorial/)
+- [Single lens simulation](https://phet.colorado.edu/sims/geometric-optics/geometric-optics_en.html)
+- [Lens simulations](http://educypedia.karadimov.info/education/physicsjavalabolenses.htm)
+- [Microbehunter](http://www.microbehunter.com/)
+- [DIY stainings](http://www.crscientific.com/microscope-stain.html)
+- [Yahoo Microscopy Group](https://groups.yahoo.com/neo/groups/Microscope/info)
+
+8. 3D Printing
+- [Makerbot Desktop](https://www.makerbot.com/media-center/2015/06/08/makerbot-desktop-3-7-faster-printing-better-profiles)
+
