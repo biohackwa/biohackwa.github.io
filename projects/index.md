@@ -11,7 +11,7 @@ brain-computer interface * 3D bio-printing * slime moulds/fungi
 
 ***
 
-## Our participants' documentation cites
+## Our participants' documentation sites
 - [https://ziggy-oreilly.github.io/](https://ziggy-oreilly.github.io/)
 - _more to come soon_
 
