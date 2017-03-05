@@ -14,9 +14,10 @@ Join us of facebook: [`diybio perth`](https://www.facebook.com/groups/diybiopert
 ***
 
 ## Our participants' documentation sites
-- [https://ziggy-oreilly.github.io/](https://ziggy-oreilly.github.io/)
-- [https://tarshbates.github.io/](https://tarshbates.github.io/)
-- [https://piratenun.wordpress.com/current-projects/](https://piratenun.wordpress.com/current-projects/)
+- [https://ziggy-oreilly.github.io/](https://ziggy-oreilly.github.io/) - EEG
+- [https://tarshbates.github.io/](https://tarshbates.github.io/) - Candida playground
+- [https://piratenun.wordpress.com/current-projects/](https://piratenun.wordpress.com/current-projects/) - Singing fish
+- [https://mdofperth.github.io/](https://mdofperth.github.io/) - Trans-cranial Direct Current Stimulation
 - _more to come soon_
 
 ***
