@@ -59,3 +59,11 @@ All recordings can be accessed on: [https://vimeo.com/waagsociety](https://vimeo
 8. 3D Printing
 - [Makerbot Desktop](https://www.makerbot.com/media-center/2015/06/08/makerbot-desktop-3-7-faster-printing-better-profiles)
 
+9. Advanced prototyping
+- [BHA Board](https://github.com/BioHackAcademy/BioHackBoard)
+- [Circuits.io](http://circuits.io/)
+- [Fritzing](http://fritzing.org/)
+- [Crash course videos on robotics - recommended](https://www.youtube.com/watch?v=Drk3Dz3_yLE)
+- [Electronics: Adafruit](https://www.adafruit.com/)
+- [Electronics: Sparkfun](https://www.sparkfun.com/)
+

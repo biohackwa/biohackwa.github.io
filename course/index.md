@@ -35,9 +35,9 @@ Before we start, please take care to review the necessary [Preparations]({{ site
 5. [27,28 Feb - Week 5: Optics]({{ site.baseurl }}/course/class/5/)
 6. [6,7 Mar   - Week 6: Bioethics and Bioart]({{ site.baseurl }}/course/class/6/)
 7. [13,14 Mar - Week 7: Advanced prototyping]({{ site.baseurl }}/course/class/7/)
-8. [20,21 Mar - Week 8: Isolating microbes (TBA)]({{ site.baseurl }}/course/class/8/)
-9. [27,28 Mar - Week 9: Personal project (TBA)]({{ site.baseurl }}/course/class/9/)
-10. [4 Apr    - Week 10: Graduation (TBA)]({{ site.baseurl }}/course/class/10/)
+8. [20,21 Mar - Week 8: Isolating microbes]({{ site.baseurl }}/course/class/8/)
+9. [27,28 Mar - Week 9: Personal project]({{ site.baseurl }}/course/class/9/)
+10. [3 Apr    - Week 10: Graduation (TBA)]({{ site.baseurl }}/course/class/10/)
 
 ## Annex
 
