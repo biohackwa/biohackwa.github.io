@@ -67,3 +67,19 @@ All recordings can be accessed on: [https://vimeo.com/waagsociety](https://vimeo
 - [Electronics: Adafruit](https://www.adafruit.com/)
 - [Electronics: Sparkfun](https://www.sparkfun.com/)
 
+9. Biomaterials and techniques
+- [Isolating soil microbes](http://www.ableweb.org/volumes/vol-14/6-steubing.pdf)
+- [Waag Microbiology Techniques videos - recommended](https://vimeo.com/193707826)
+- [Instruction on storing microbes in the freezer](https://www.youtube.com/watch?v=sxJmmpaOvNU)
+- [ODIN - biomaterials kits](http://www.the-odin.com/)
+
+10. Courses on biology
+- [Introduction to Biology (videos - MITx)](https://ocw.mit.edu/courses/biology/7-012-introduction-to-biology-fall-2004/video-lectures/)
+- [Biology and Life Sciences (collection - edX)](https://www.edx.org/course/subject/biology-life-sciences)
+- [Microbiology course](http://education-portal.com/academy/course/microbiology-course.html)
+- [Introduction to Microbiology Culture Techniques - advanced](https://www.youtube.com/watch?v=Et1v8EQP10U)
+
+11. DIYbio in science and DIYbio communities
+- [PLoS open sourse toolkit](http://collections.plos.org/open-source-toolkit-hardware)
+- [Hackteria](http://hackteria.org/)
+- [DIYbio google group](https://groups.google.com/forum/#!forum/diybio)

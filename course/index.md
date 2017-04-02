@@ -37,7 +37,6 @@ Before we start, please take care to review the necessary [Preparations]({{ site
 7. [13,14 Mar - Week 7: Advanced prototyping]({{ site.baseurl }}/course/class/7/)
 8. [20,21 Mar - Week 8: Isolating microbes]({{ site.baseurl }}/course/class/8/)
 9. [27,28 Mar - Week 9: Personal project]({{ site.baseurl }}/course/class/9/)
-10. [3 Apr    - Week 10: Graduation (TBA)]({{ site.baseurl }}/course/class/10/)
 
 ## Annex
 
